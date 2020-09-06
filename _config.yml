@@ -45,11 +45,11 @@ roles:
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
-# - title: Post Graduate Engineer Trainee
-#    start: 2018
-#    end: 2019
-#    employer: Mercedes-Benz Research & Development, India
-#    description: "Conceptualized a Proof of Concept (POC) for the Trigger Analysis over azure cloud using Pyspark"
+- title: Post Graduate Engineer Trainee
+   start: 2018
+   end: 2019
+   employer: Mercedes-Benz Research & Development, India
+   description: "Conceptualized a Proof of Concept POC for the Trigger Analysis over azure cloud using Pyspark"
  - title: Programmar Analyst
    start: 2018
    end: 2018
@@ -69,7 +69,7 @@ coursera:
    courses:
     - title: Deep Learning Specialization
       link: https://www.coursera.org/specializations/deep-learning
-      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png?auto=format%2Ccompress&dpr=1&w=180&h=180
       date: March 20, 2020
 #     - title: Algorithms Design and Analysis, Part 1
 #       link: https://www.coursera.org/specializations/algorithms
