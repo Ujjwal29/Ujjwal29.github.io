@@ -5,7 +5,6 @@ name: Ujjwal Jain
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
 
 #User specific content
 #Links that will appear in the navbar
@@ -44,17 +43,17 @@ roles:
    start: 2019
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
-#    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
+   description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
 - title: Post Graduate Engineer Trainee
    start: 2018
    end: 2019
    employer: Mercedes-Benz Research & Development, India
-#    description: "Conceptualized a Proof of Concept POC for the Trigger Analysis over azure cloud using Pyspark"
+   description: Conceptualized a Proof of Concept \(POC\) for the Trigger Analysis over azure cloud using Pyspark"
  - title: Programmar Analyst
    start: 2018
    end: 2018
    employer: American Express
-#    description: "Built a lexical analyzer for hive & PySpark in python using ANTLR. Also, Worked on Deep Learning algorithm to randomize the Bayesian search hyper-parameter"
+   description: "Built a lexical analyzer for hive & PySpark in python using ANTLR. Also, Worked on Deep Learning algorithm to randomize the Bayesian search hyper-parameter"
  
 #Education is required
 education:
