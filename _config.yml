@@ -40,15 +40,10 @@ skills:
 #Work experience is required
 roles:
  - title: Data Scientist
-   start: 2019
+   start: 2018
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
-- title: Post Graduate Engineer Trainee
-   start: 2018
-   end: 2019
-   employer: Mercedes-Benz Research & Development, India
-   description: Conceptualized a Proof of Concept \(POC\) for the Trigger Analysis over azure cloud using Pyspark"
  - title: Programmar Analyst
    start: 2018
    end: 2018
