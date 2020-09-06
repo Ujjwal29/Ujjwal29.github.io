@@ -5,6 +5,7 @@ name: Ujjwal Jain
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 #User specific content
 #Links that will appear in the navbar
