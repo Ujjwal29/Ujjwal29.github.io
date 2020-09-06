@@ -1,11 +1,11 @@
 # Site settings
 title: Ujjwal Jain
-# twitter_username: ujjwal529
-# name: Ujjwal Jain
+twitter_username: ujjwal529
+name: Ujjwal Jain
 
 # Build settings
-# markdown: kramdown
-# highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 
 #User specific content
 #Links that will appear in the navbar
