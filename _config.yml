@@ -44,6 +44,11 @@ roles:
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
+#  - title: Programmar Analyst
+#    start: 2018
+#    end: 2018
+#    employer: American Express
+#    description: "Built a lexical analyzer for hive & PySpark in python using ANTLR. Also, Worked on Deep Learning algorithm to randomize the Bayesian search hyper-parameter"
  - title: Programmar Analyst
    start: 2018
    end: 2018
