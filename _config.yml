@@ -44,17 +44,17 @@ roles:
    start: 2019
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
-   description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
+#    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
 - title: Post Graduate Engineer Trainee
    start: 2018
    end: 2019
    employer: Mercedes-Benz Research & Development, India
-   description: "Conceptualized a Proof of Concept POC for the Trigger Analysis over azure cloud using Pyspark"
+#    description: "Conceptualized a Proof of Concept POC for the Trigger Analysis over azure cloud using Pyspark"
  - title: Programmar Analyst
    start: 2018
    end: 2018
    employer: American Express
-   description: "Built a lexical analyzer for hive & PySpark in python using ANTLR. Also, Worked on Deep Learning algorithm to randomize the Bayesian search hyper-parameter"
+#    description: "Built a lexical analyzer for hive & PySpark in python using ANTLR. Also, Worked on Deep Learning algorithm to randomize the Bayesian search hyper-parameter"
  
 #Education is required
 education:
@@ -94,9 +94,9 @@ github:
  - Ujjwal29/algotrading
 
 # #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/3696134/ujjwal
-   flairimageurl: https://stackexchange.com/users/flair/4550916.png
+# stackoverflow:
+#    profileurl: https://stackoverflow.com/users/3696134/ujjwal
+#    flairimageurl: https://stackexchange.com/users/flair/4550916.png
 
 intro: |
   I am a Data Scientist with 2 years of experience working in tech industry. I have primarily worked on the Python, Machine Learning & Deep learning, but have worked across a broad range of technologies thereon: PySpark, Sentiment-Analysis & R. <br/><br/>
