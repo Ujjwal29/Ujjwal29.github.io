@@ -1,6 +1,6 @@
 # Site settings
 title: Ujjwal Jain
-twitter_username: ujjwal529
+# twitter_username: ujjwal529
 name: Ujjwal Jain
 
 # Build settings
@@ -15,8 +15,6 @@ primarylinks:
    url: https://github.com/Ujjwal29
  - title: StackOverflow
    url: https://stackoverflow.com/users/3696134/ujjwal
-#  - title: DZone
-#    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
    url: https://www.linkedin.com/in/ujjwaljain29/
 
@@ -34,10 +32,9 @@ skills:
  - Microsoft Azure
  - Databricks
  - Image Recongnition
- - Technical Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
