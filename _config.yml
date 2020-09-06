@@ -39,12 +39,12 @@ skills:
 # blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
-# roles:
-#  - title: Data Scientist
-#    start: 2019
-#    end: Ongoing
-#    employer: Mercedes-Benz Research & Development, India
-#    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
+roles:
+ - title: Data Scientist
+   start: 2019
+   end: Ongoing
+   employer: Mercedes-Benz Research & Development, India
+   description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
 # - title: Post Graduate Engineer Trainee
 #    start: 2018
 #    end: 2019
