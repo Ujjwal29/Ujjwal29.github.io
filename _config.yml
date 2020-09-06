@@ -49,7 +49,7 @@ roles:
    start: 2018
    end: 2019
    employer: Mercedes-Benz Research & Development, India
-   description: Conceptualized a Proof of Concept (POC) for the Trigger Analysis over azure cloud using Pyspark
+   description: "Conceptualized a Proof of Concept (POC) for the Trigger Analysis over azure cloud using Pyspark"
  - title: Programmar Analyst
    start: 2018
    end: 2018
