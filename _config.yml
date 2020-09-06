@@ -45,11 +45,11 @@ roles:
    end: Ongoing
    employer: Mercedes-Benz Research & Development, India
    description: "Responsible for designing & building the various Machine Learning, Deep Learning & based solutions to analyze the pattern of battery's aging & decay"
-# - title: Post Graduate Engineer Trainee
-#    start: 2018
-#    end: 2019
-#    employer: Mercedes-Benz Research & Development, India
-#    description: "Conceptualized a Proof of Concept (POC) for the Trigger Analysis over azure cloud using Pyspark"
+- title: Post Graduate Engineer Trainee
+   start: 2018
+   end: 2019
+   employer: Mercedes-Benz Research & Development, India
+   description: "Conceptualized a Proof of Concept (POC) for the Trigger Analysis over azure cloud using Pyspark"
 #  - title: Programmar Analyst
 #    start: 2018
 #    end: 2018
@@ -97,10 +97,10 @@ github:
 # #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/3696134/ujjwal
-#    flairimageurl: https://stackoverflow.com/users/flair/258813.png
+   flairimageurl: https://stackexchange.com/users/flair/4550916.png
 
 intro: |
-  I am an Data Scientist with 2 years experience working in technology industry. I have primarily worked on the python & machine learning, deep learning, but have worked across a broad range of technologies thereon: PySpark, Sentiment-Analysis & R. <br/><br/>
+  I am a Data Scientist with 2 years of experience working in tech industry. I have primarily worked on the Python, Machine Learning & Deep learning, but have worked across a broad range of technologies thereon: PySpark, Sentiment-Analysis & R. <br/><br/>
   I enjoy working out with interesting problems which can be solved using data, and a good emphasis on good engineering principles and clean code (having worked across differing languages Python/C++/R/SQL, I recognise that good code is contextual).<br/><br/>
   I am currently working as Data Scientist at Mercedes-Benz Research & Development, India.
 
