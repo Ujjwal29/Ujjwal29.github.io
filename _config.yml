@@ -68,7 +68,7 @@ coursera:
    courses:
     - title: Deep Learning Specialization
       link: https://www.coursera.org/specializations/deep-learning
-      optionalimage: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.deeplearning.ai%2Fcontent%2Fuploads%2F2018%2F09%2Fdeeplearning-ai-icon.png&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2F&tbnid=hJdCdsmPlNKavM&vet=12ahUKEwjPmIO4vdTrAhVPKbcAHbUyCpAQMygJegUIARDOAQ..i&docid=3JR_-PA83oyM3M&w=1024&h=1024&q=deep%20learning%20ai&client=firefox-b-d&ved=2ahUKEwjPmIO4vdTrAhVPKbcAHbUyCpAQMygJegUIARDOAQ      date: March 20, 2020
+#       optionalimage: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.deeplearning.ai%2Fcontent%2Fuploads%2F2018%2F09%2Fdeeplearning-ai-icon.png&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2F&tbnid=hJdCdsmPlNKavM&vet=12ahUKEwjPmIO4vdTrAhVPKbcAHbUyCpAQMygJegUIARDOAQ..i&docid=3JR_-PA83oyM3M&w=1024&h=1024&q=deep%20learning%20ai&client=firefox-b-d&ved=2ahUKEwjPmIO4vdTrAhVPKbcAHbUyCpAQMygJegUIARDOAQ      date: March 20, 2020
 #     - title: Algorithms Design and Analysis, Part 1
 #       link: https://www.coursera.org/specializations/algorithms
 #       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
